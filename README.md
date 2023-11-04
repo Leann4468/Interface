@@ -18,8 +18,9 @@ Step 4: Use if-else conditional statement to get the choice from the user whethe
 Step 5: After performing the functions display the remaining balance of the user.
 
 ## Program:
-Name:G.TEJASWINI
-Reg no:212222230157
+Name:Leann Joby Mathew
+
+Reg no:212222230074
 
 ```python
 using System;
